@@ -18,9 +18,6 @@ A job application tracker built as a polished SaaS-style dashboard. All data liv
 
 React 18, Vite, JavaScript, Tailwind CSS, React Router, Lucide React, Recharts, LocalStorage
 
-## Screenshots
-
-_Add screenshots here._
 
 ## Installation
 
@@ -56,8 +53,7 @@ src/
 
 ## Author
 
-Vinita Parmar — GitHub: _add link_
+Vinita Parmar
 
 ## Live Demo
-
-_Add link after deployment._
+(https://jobtrack-olive-theta.vercel.app/)
